@@ -1,4 +1,4 @@
-Flask==0.12
+Flask
 httplib2
 google-api-python-client
 oauth2client
